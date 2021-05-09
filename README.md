@@ -19,8 +19,6 @@
 3. We leveraged Minty to mint the post's image, and collected the remaining metadata in a `.json` file which pointed to the minted picture.
 4. We pinned the NFT and its metadata on Pinata, which could then be accessed from anywhere where the IPFS protocol worked. (Brave browser natively handles IPFS.)
 
-##
-
 ## Resources
 
 Here is a non-ranked, non-exhaustive list of resources we used during the hackathon.
