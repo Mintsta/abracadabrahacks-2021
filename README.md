@@ -1,6 +1,6 @@
 # ✨ abracadabrahacks-2021 🔮
 
-##### _May 6-8 2021_
+##### _May 7-9 2021_
 
 ## Team Members
 
